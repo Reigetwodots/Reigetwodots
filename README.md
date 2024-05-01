@@ -20,12 +20,8 @@
 
 <a href="https://twitter.com/Reige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reigetwodots" height="30" width="40" /></a>
 “Reige”
-<a href="https://fb.com/reigetwodots" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="reigetwodots" height="30" width="40" /></a>
-“reigetwodots”
-<a href="https://instagram.com/reigetwodots" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reigetwodots" height="30" width="40" /></a>
-“reigetwodots”
-<a href="https://www.youtube.com/c/reigetwodots" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="reigetwodots" height="30" width="40" /></a>
-“reigetwodots”
+<a href="https://instagram.com/heruijun017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reigetwodots" height="30" width="40" /></a>
+“heruijun017”
 </p> 
 
 
